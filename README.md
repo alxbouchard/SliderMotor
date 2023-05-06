@@ -4,7 +4,7 @@
 #REF
 http://www.yizhi.info/products_show.asp?id=54
 
-# Buy Link
+# Order Link
 https://www.aliexpress.com/i/1005003781012602.html
 
 
